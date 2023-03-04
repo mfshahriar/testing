@@ -1,0 +1,1 @@
+export * from './auth.dto'; //exporting the interface AuthDto using the Barren Export Pattern
